@@ -1,5 +1,13 @@
 <!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8" />
+      <title>random-image-api</title>
       <?php require_once './assets/api/ri-api.php'; ?>
-<?php echo https://randombus.api.beetransit.ca ?>
-  <?php echo $path . $img ?>
+   </head>
+   <body>
+      <div>
+         <a test<?php echo $path . $img ?>/>
+      </div>
+   </body>
 </html>
