@@ -6,6 +6,6 @@
       <?php require_once './assets/api/ri-api.php'; ?>
    </head>
    <body>
-      <?php echo $path . $img ?>
+     https://randombus.api.beetransit.ca <?php echo $path  $img ?>
    </body>
 </html>
